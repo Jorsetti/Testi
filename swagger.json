@@ -3,7 +3,7 @@
   "info" : {
     "version" : "1.0.0",
     "title" : "home-iot-api",
-    "description" : "The API for the EatBacon IOT project JuuhJuuh"
+    "description" : "The API for the EatBacon IOT project JuuhJuuhTEStiTama"
   },
   "schemes" : [ "https", "http" ],
   "consumes" : [ "application/json" ],
