@@ -2,7 +2,7 @@
   "swagger" : "2.0",
   "info" : {
     "version" : "1.0.0",
-    "title" : "home-iot-api",
+    "title" : "home-iot-api  otsikkooooo",
     "description" : "The API for the EatBacon IOT project JuuhJuuh"
   },
   "schemes" : [ "https", "http" ],
